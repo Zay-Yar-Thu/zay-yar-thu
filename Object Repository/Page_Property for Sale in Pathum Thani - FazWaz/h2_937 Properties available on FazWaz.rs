@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_937 Properties available on FazWaz</name>
+   <tag></tag>
+   <elementGuidId>9409ba9c-4043-489e-a8ef-ca35314c91c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.result-search__h2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search-result']/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>4ebc57ab-af4f-4202-b42d-ae258ef47939</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>result-search__h2</value>
+      <webElementGuid>0733e7dc-6d37-4bcd-9ce4-547d9d45255d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>937 Properties available on FazWaz</value>
+      <webElementGuid>40ac0149-3d91-4542-9af8-e6402945fb8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-result&quot;)/div[@class=&quot;result-search__header sticky-nav&quot;]/div[@class=&quot;result-search__header__title&quot;]/h2[@class=&quot;result-search__h2&quot;]</value>
+      <webElementGuid>67488ef8-581c-4f68-a2ed-ab28d1cd29e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search-result']/div/div/h2</value>
+      <webElementGuid>4698a6ba-b5b2-420d-946b-f1ce1a933eb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Property for sale in Pathum Thani'])[1]/following::h2[1]</value>
+      <webElementGuid>364556b0-1396-49fe-8216-58f8243919fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Search'])[1]/following::h2[1]</value>
+      <webElementGuid>161ff132-075b-48a8-b4e3-85ea7457fcfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completion Status:'])[1]/preceding::h2[1]</value>
+      <webElementGuid>a436146a-fef7-45b8-a0ea-056b6d53f70f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='937 Properties available on FazWaz']/parent::*</value>
+      <webElementGuid>9aa809a4-27c2-4db3-9b22-a4e9e6cae1b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>9c5e5102-d034-45f2-8950-0fd076aab57f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = '937 Properties available on FazWaz' or . = '937 Properties available on FazWaz')]</value>
+      <webElementGuid>70114799-28be-43da-8d6c-79e709a531e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

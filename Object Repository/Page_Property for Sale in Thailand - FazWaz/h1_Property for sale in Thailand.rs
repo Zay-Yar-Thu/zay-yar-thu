@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Property for sale in Thailand</name>
+   <tag></tag>
+   <elementGuidId>b789876a-0447-4eef-8628-0a64abcc5af5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search-result']/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.result-search__h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>0ffe1e09-f4d5-4624-8718-f2d314e036b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>result-search__h1</value>
+      <webElementGuid>589bd572-9bbf-4773-a798-7d8b1c8faa09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Property for sale in Thailand</value>
+      <webElementGuid>326889a1-73bf-4cf0-9eb5-88dac16f2fd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-result&quot;)/div[@class=&quot;result-search__header sticky-nav&quot;]/div[@class=&quot;result-search__header__title&quot;]/h1[@class=&quot;result-search__h1&quot;]</value>
+      <webElementGuid>9ef44905-a3fd-4990-8e7d-2ddaa3882f38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search-result']/div/div/h1</value>
+      <webElementGuid>178f2655-68d5-4b0e-b6a1-01815e62f7f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Search'])[1]/following::h1[1]</value>
+      <webElementGuid>9c445544-25e0-4c40-9f18-a4e68cd65889</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Search'])[1]/following::h1[1]</value>
+      <webElementGuid>37f6359d-bf4e-4ba6-9aac-f6f2958b7405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completion Status:'])[1]/preceding::h1[1]</value>
+      <webElementGuid>c13a3f0b-84ca-44ce-b2e7-d518fcb2cab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Property for sale in Thailand']/parent::*</value>
+      <webElementGuid>84687787-3727-4d54-85bd-7bc5dabb591d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>d176d10d-a23e-482f-ba51-c720e25d2100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Property for sale in Thailand' or . = 'Property for sale in Thailand')]</value>
+      <webElementGuid>2ce45064-1069-49ce-9e2f-4aaaea007e2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Property for sale in Pathum Thani</name>
+   <tag></tag>
+   <elementGuidId>7ba56e7c-27c7-4d00-9e48-7aa0a945b152</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search-result']/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.result-search__h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>5edf35d6-b16e-467e-ae78-d8f0df998934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>result-search__h1</value>
+      <webElementGuid>99ed3e2a-28dc-4ead-bd78-79bf1f6c6416</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Property for sale in Pathum Thani</value>
+      <webElementGuid>a145e8d6-89c3-47d9-9cd8-fef31f633992</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-result&quot;)/div[@class=&quot;result-search__header sticky-nav&quot;]/div[@class=&quot;result-search__header__title&quot;]/h1[@class=&quot;result-search__h1&quot;]</value>
+      <webElementGuid>447a4937-16d2-4357-a458-f219448bbbf9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search-result']/div/div/h1</value>
+      <webElementGuid>46654c94-f180-412b-83e2-531dfd9bf457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Search'])[1]/following::h1[1]</value>
+      <webElementGuid>beefd5ed-8249-4740-9b10-ce21f755071a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Search'])[1]/following::h1[1]</value>
+      <webElementGuid>2343986e-a5ae-4d04-84c4-c4c05a6147e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completion Status:'])[1]/preceding::h1[1]</value>
+      <webElementGuid>e4cb4016-a218-48a2-b1cf-65594619e2f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Property for sale in Pathum Thani']/parent::*</value>
+      <webElementGuid>4bc2907c-5075-4df3-bd6f-fbe294280460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>93275bca-adb4-47bd-ba1e-a06db0cbd0b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Property for sale in Pathum Thani' or . = 'Property for sale in Pathum Thani')]</value>
+      <webElementGuid>4d32739b-213d-410a-bc22-8bcd9a1baa31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

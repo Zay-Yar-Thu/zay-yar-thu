@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Reset Search</name>
+   <tag></tag>
+   <elementGuidId>f10871be-ed9d-4ea3-ad0f-279c5177857f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-reset-search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search-bar']/div/div/div[6]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9989fba2-2c4e-49a8-a37b-05287c67cfc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-reset-search</value>
+      <webElementGuid>67649f98-e2f9-4098-af2d-0f4b14324fbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reset Search</value>
+      <webElementGuid>2daf26cc-82c5-41ea-b09c-b3b24ffebeb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-bar&quot;)/div[@class=&quot;search-bar&quot;]/div[@class=&quot;search-menu&quot;]/div[@class=&quot;search-menu__item li-reset-search&quot;]/button[@class=&quot;btn-reset-search&quot;]</value>
+      <webElementGuid>310e9745-6573-4ee8-8aae-68b88d009e31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search-bar']/div/div/div[6]/button[2]</value>
+      <webElementGuid>752db391-b4f5-4bfe-94f6-ceaf70536ef3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Search'])[1]/following::button[1]</value>
+      <webElementGuid>c9adf105-c4c1-4793-8f75-713e457353f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::button[2]</value>
+      <webElementGuid>77a686e7-5124-455f-bf36-29b583da9f44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Property for sale in Pathum Thani'])[1]/preceding::button[1]</value>
+      <webElementGuid>23332e21-17f4-4d9a-a6f4-6e3b1788e1fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reset Search']/parent::*</value>
+      <webElementGuid>aed6a0f2-41a6-469d-b6b9-4f87789a85df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>5da07edd-6a31-42ad-941f-5cc0b7d2b97e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Reset Search' or . = 'Reset Search')]</value>
+      <webElementGuid>85432d09-cd0b-4153-96cf-c291313e4f5c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
